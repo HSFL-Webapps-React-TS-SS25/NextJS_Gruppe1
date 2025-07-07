@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1748435405936,
+      "tag": "0000_familiar_moira_mactaggert",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1751537725603,
+      "tag": "0001_absent_cassandra_nova",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1751540829351,
+      "tag": "0002_overconfident_night_nurse",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1751547538971,
+      "tag": "0003_lush_black_crow",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1751550457560,
+      "tag": "0004_chunky_albert_cleary",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1751551123235,
+      "tag": "0005_puzzling_eternals",
+      "breakpoints": true
+    }
+  ]
+}
